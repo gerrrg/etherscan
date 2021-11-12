@@ -1,6 +1,6 @@
 # Etherscan.io API wrapper
 
-[![PyPi Version](http://img.shields.io/pypi/v/etherscan.svg)](https://pypi.python.org/pypi/etherscan/)
+[![PyPi Version](http://img.shields.io/pypi/v/etherscan.svg)](https://pypi.python.org/pypi/etherscan2/)
 
 An Etherscan.io API wrapper, for Python.
 
@@ -8,7 +8,7 @@ With a default cache supported by [requests-cache](https://github.com/reclosedev
 
 ## Installation
 ```
-pip3 install etherscan
+pip3 install etherscan2
 ```
 
 ## Usage
