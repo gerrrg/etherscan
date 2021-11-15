@@ -228,7 +228,7 @@ class Client():
 
     def get_token_transactions(self,
                                module: str = 'account',
-                               action: str = 'tokentx'
+                               action: str = 'tokentx',
                                contract_address: str = None,
                                address: str = None,
                                start_block: int = 0,
